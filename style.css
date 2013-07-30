@@ -12,8 +12,7 @@
  *
  * 1.0 - Reset
  * 2.0 - Repeatable Patterns
- * 3.0 - Typographie
- * 4.0 - Basic Structure
+ * 3.0 - Basic Structure
  * ----------------------------------------------------------------------------
  */
 
@@ -728,27 +727,8 @@ img.wp-smiley,
 	list-style-position: inside;
 }
 
-
 /**
- * 3.0 Typographie 
- * ----------------------------------------------------------------------------
- */
-
-body {
-    font: 14px/22px Helvetica, Helvetica Neue, Arial;
-}
-
-p {
-    margin: 0.5em 0;
-}
-
-h2 a {
-    text-decoration:none;
-}
-
-
-/**
- * 4.0 Basic Structure
+ * 3.0 Basic Structure
  * ----------------------------------------------------------------------------
  */
 
