@@ -12,7 +12,8 @@
  *
  * 1.0 - Reset
  * 2.0 - Repeatable Patterns
- * 3.0 - Basic Structure
+ * 3.0 - Typographie
+ * 4.0 - Basic Structure
  * ----------------------------------------------------------------------------
  */
 
@@ -729,7 +730,7 @@ img.wp-smiley,
 
 
 /**
- * 3.0 Basic Structure
+ * 3.0 Typographie 
  * ----------------------------------------------------------------------------
  */
 
@@ -741,13 +742,19 @@ p {
     margin: 0.5em 0;
 }
 
+h2 a {
+    text-decoration:none;
+}
+
+
+/**
+ * 4.0 Basic Structure
+ * ----------------------------------------------------------------------------
+ */
+
 .wrapper {
     width: 96%;
     margin: 0 2%;
-}
-
-h2 a {
-    text-decoration:none;
 }
 
 /* ==============
