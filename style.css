@@ -113,18 +113,18 @@ h4,
 h5,
 h6 {
 	clear: both;
-	font-family: Graduate, serif;
+	font-family: Syncopate, serif;
 	line-height: 1.3;
 }
 
 h1 {
-	font-size: 48px;
-	margin: 33px 0;
+	font-size: 36px;
+	margin: 12px 0;
 }
 
 h2 {
-	font-size: 30px;
-	margin: 25px 0;
+	font-size: 28px;
+	margin: 9px 0;
 }
 
 h3 {
