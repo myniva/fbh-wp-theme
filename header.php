@@ -12,9 +12,7 @@
         <!-- Font für Titel -->
         <link href='http://fonts.googleapis.com/css?family=Syncopate:400,700' rel='stylesheet' type='text/css'>
 
-        <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/normalize.min.css">
-        <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">
-        
+        <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">        
 
         <script src="<?php echo get_template_directory_uri(); ?>/js/lib/modernizr-2.6.2-respond-1.1.0.min.js"></script>
         
