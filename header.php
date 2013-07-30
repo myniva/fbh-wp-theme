@@ -11,6 +11,8 @@
         
         <!-- Font für Titel -->
         <link href='http://fonts.googleapis.com/css?family=Syncopate:400,700' rel='stylesheet' type='text/css'>
+        <!-- Font für Fliesstext -->
+        <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
 
         <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">        
 
