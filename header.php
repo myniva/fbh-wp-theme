@@ -44,7 +44,7 @@
                             'sort_column' => 'menu_order',
                             'container' => 'nav',
                             'container_class' => 'menu-header',
-                            'depth' => '2',
+                            'depth' => '3',
                             'fallback_cb' => 'wp_page_menu'
                         )
                     );?>
