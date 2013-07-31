@@ -782,7 +782,12 @@ img.wp-smiley,
     background-color: #ffffff;
 }
 
-.main-menu a:hover {
+.main-menu a:visited {
+    text-decoration:none;
+    color:black;
+}
+
+.main-menu a:hover, .main-menu .current-menu-item {
     font-weight: 700;
     text-decoration: none;
     color: black;
