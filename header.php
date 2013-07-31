@@ -45,7 +45,7 @@
                             'container' => 'nav',
                             'container_class' => 'menu-header',
                             'depth' => '2',
-                            'fallback_cb' => 'wp_page_menu',
+                            'fallback_cb' => 'wp_page_menu'
                         )
                     );?>
                 </div>
