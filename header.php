@@ -36,7 +36,7 @@
             
                 <div class="navigation">
                     <div class="site-title">
-                        <a href="<?php echo site_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/logo_transparent_250x288.png" alt="Logo Floorball Heiden" /></a>
+                        <a href="<?php echo home_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/logo_transparent_250x288.png" alt="Logo Floorball Heiden" /></a>
                     </div>
                     <?php wp_nav_menu(
                         array(
