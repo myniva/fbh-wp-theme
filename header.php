@@ -35,7 +35,7 @@
             <div class="wrapper clearfix">
             
                 <div class="navigation">
-                    <div class="title">
+                    <div class="site-title">
                         <a href="<?php echo site_url(); ?>"><img src="<?php echo get_template_directory_uri(); ?>/images/logo_transparent_250x288.png" alt="Logo Floorball Heiden" /></a>
                     </div>
                     <?php wp_nav_menu(
@@ -43,7 +43,7 @@
                             'theme_location' => 'main',
                             'sort_column' => 'menu_order',
                             'container' => 'nav',
-                            'container_class' => 'menu-header',
+                            'container_class' => 'main-menu',
                             'depth' => '3',
                             'fallback_cb' => 'wp_page_menu'
                         )
