@@ -40,7 +40,7 @@
                     </div>
                     <?php wp_nav_menu(
                         array(
-                            'menu' => 'main',
+                            'theme_location' => 'main',
                             'sort_column' => 'menu_order',
                             'container' => 'nav',
                             'container_class' => 'menu-header',
