@@ -1,6 +1,6 @@
 <?php
 
-/* Add support for menus */
-add_theme_support( 'menus' );
+/* Register Main Menu */
+register_nav_menu( 'main', 'Hauptnavigation' );
 
 ?>

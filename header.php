@@ -40,10 +40,12 @@
                     </div>
                     <?php wp_nav_menu(
                         array(
+                            'menu' => 'main',
                             'sort_column' => 'menu_order',
                             'container' => 'nav',
                             'container_class' => 'menu-header',
-                            'depth' => '2'
+                            'depth' => '2',
+                            'fallback_cb' => 'wp_page_menu',
                         )
                     );?>
                 </div>
