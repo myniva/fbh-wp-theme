@@ -787,7 +787,7 @@ img.wp-smiley,
     color:black;
 }
 
-.main-menu a:hover, .main-menu .current-menu-item {
+.main-menu a:hover, .main-menu .current-menu-item a {
     font-weight: 700;
     text-decoration: none;
     color: black;
