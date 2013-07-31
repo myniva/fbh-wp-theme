@@ -739,6 +739,22 @@ img.wp-smiley,
     margin: 0 2%;
 }
 
+.navigation, .content {
+    margin: 1%;
+}
+
+article, .box-left, .box-right {
+    background-color: #ffffff;
+    margin: 0.5%;
+    margin-top:10px;
+    padding: 5px;
+}
+
+.main-content {
+    width:100%;
+}
+
+
 /**
  * 4.0 Header
  * ----------------------------------------------------------------------------
@@ -792,33 +808,6 @@ img.wp-smiley,
     font-weight: 700;
     text-decoration: none;
     color: black;
-}
-
-/* ==============
-    MOBILE: Main
-   ============== */
-
-.navigation, .content {
-    margin: 1%;
-}
-
-article, .box-left, .box-right {
-    background-color: #ffffff;
-    margin: 0.5%;
-    margin-top:10px;
-    padding: 1%;
-}
-
-.main-content {
-    width:100%;
-}
-
-/* ===============
-    ALL: IE Fixes
-   =============== */
-
-.ie7 .title {
-    padding-top: 20px;
 }
 
 /* ==========================================================================
